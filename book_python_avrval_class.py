@@ -3,6 +3,8 @@ class AvrVal:
     a = 'Переменная класса, Атрибут класса, Постоянный атрибут'
     b = 1
     
+    #______-----________
+    
     @staticmethod
     def ex_static_method():
         print("static method")
